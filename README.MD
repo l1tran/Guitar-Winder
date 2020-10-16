@@ -1,4 +1,4 @@
 ------------------------------------------------------
-                     Guitar Winder
+                  Guitar Winder
 ------------------------------------------------------
-Use for winding the tuning knobs on guitars
+CAD design for winding the tuning knobs on guitars
